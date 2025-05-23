@@ -4,7 +4,7 @@
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-responsive-website/blob/main/assets/img/Capture.PNG)
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-responsive-website/blob/main/assets/img/Capture2.PNG)
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-responsive-website/blob/main/assets/img/Capture.PNG3)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/first-responsive-website/blob/main/assets/img/Capture3.PNG)
 
 -🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/first-responsive-website/)
 
